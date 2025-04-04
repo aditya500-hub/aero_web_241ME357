@@ -1,8 +1,9 @@
 # Boeing Landing Page Clone - Web Role Recruitment (Aero NITK )
 
-Project Overview
+# Project Overview
 
 This is a creative, and fully responsive, simple recreation of the *Boeing landing page* made for the Web Role Recruitment by Aero NITK.
+
 
  # How to Run the Project
 
@@ -52,6 +53,8 @@ This is a creative, and fully responsive, simple recreation of the *Boeing landi
 - [Vercel](https://vercel.com) for deployment
 - W3 school for html
 - chatgpt for solving errors in code
+
+  # DEMO VIDEO
   
 
 
